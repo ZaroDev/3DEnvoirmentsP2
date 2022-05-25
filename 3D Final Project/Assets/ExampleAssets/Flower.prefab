@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7117685326119347518
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1981209610003531532}
+  m_Layer: 0
+  m_Name: Flower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1981209610003531532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7117685326119347518}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 36.20966, y: 22.4322, z: 43.442677}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6055766218957461978}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6017053433955647025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1981209610003531532}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.2726593
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.74219894
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.8826752
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.44784656
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.89411044
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 53.211
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5244210282117638446, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1eedd2571f718cd4b9f6dce16a8051df, type: 2}
+    - target: {fileID: -93118031407941644, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1eedd2571f718cd4b9f6dce16a8051df, type: 2}
+    - target: {fileID: 919132149155446097, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_Name
+      value: Foliage02_Flower_LowPoly_AnnaMetreveli
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+--- !u!4 &6055766218957461978 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f5a21b63fe1e2314bbce6ffdb5093238, type: 3}
+  m_PrefabInstance: {fileID: 6017053433955647025}
+  m_PrefabAsset: {fileID: 0}

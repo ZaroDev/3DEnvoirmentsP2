@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FoliageVictorTransparent_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 35eeebd823a59e44c8a44e4d73213599, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_3be68bf618494c51a5a4deea72a63865_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 01c8344c56136af44aa21b9b22d2c67c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4320fc9f9e9049f0ad31771de0cc1c51_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 18ed50e17511ea24ab579816e6898cd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a0e3d2b76eb4411499672098d07cea91_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 18ed50e17511ea24ab579816e6898cd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_af172a7e4e4c49fcbaf7a675a0eb1a16_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d5c8c8e7498f5eb459c3dad1d04b664d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b6a6cadee43d4d41910331631c8ad367_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 18ed50e17511ea24ab579816e6898cd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_da72d5f995bc448dbf10436b606de248_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 18ed50e17511ea24ab579816e6898cd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []
+  m_BuildTextureStacks: []
